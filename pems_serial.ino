@@ -1,3 +1,4 @@
+//This code print the data to serial monitor and does not send it over to cloud.
 #include "DHT.h"
 #define DHTPIN  18
 #define DHTTYPE DHT11
