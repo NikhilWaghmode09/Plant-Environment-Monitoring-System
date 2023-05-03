@@ -45,6 +45,8 @@ void loop() {
   Blynk.run();
  
   sensorVal=analogRead(soilPin);
+  Serial.println("Soil Moisture Value =");
+  Serial.println(sensorVal);
   //float l = analogRead(ldrpin);
   float l1 = digitalRead(ldrpin);
   float h = dht.readHumidity();
