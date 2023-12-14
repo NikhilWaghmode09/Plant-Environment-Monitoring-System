@@ -1,4 +1,4 @@
-# PlantFitBit: Plant Soil Moisture and Environment Monitoring System
+# PlantFitBit: Plant Soil Moisture and Environment Monitoring System🌱
 
 ## Overview🌟
 
