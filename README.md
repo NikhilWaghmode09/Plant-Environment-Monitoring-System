@@ -44,7 +44,7 @@ PlantFitBit is an ESP32-based soil moisture and environment monitoring system de
 
 ## Wiring Diagram🔌
 
-![Wiring Diagram](https://github.com/NikhilWaghmode09/SecureSense/assets/72146637/94eb312c-d5bc-4a61-b1c2-fc955a325bed)
+![Wiring Diagram](https://github.com/NikhilWaghmode09/Plant-Environment-Monitoring-System/blob/7ee0653dc717d612eae6bd4f7df4bab148dbe6f1/Final%20Circuit%20Fig%20(1).jpg)
 
 ## Troubleshooting🛑
 
