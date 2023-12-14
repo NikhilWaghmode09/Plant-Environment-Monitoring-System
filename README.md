@@ -64,4 +64,4 @@ PlantFitBit is an ESP32-based soil moisture and environment monitoring system de
 
 ## Contributing🐛
 
-If you'd like to contribute to the SecureSense project, please fork the repository and submit a pull request :)
+If you'd like to contribute to the this project, please fork the repository and submit a pull request :)
